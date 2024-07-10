@@ -2,7 +2,7 @@
 
 I've made the typical hangman game in Java, where someone needs to put letter by letter in the console and has certain amount of chances. If you achieve to complete all the whole word you will win. Otherwise, you will loose after your chances are left.
 
-<div="center">
+<div align="center">
 ##  What tools I've used?
 1. Scanner class
 2. Declarations and asigments
