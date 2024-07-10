@@ -1,18 +1,19 @@
-## Getting Started
+# Hangman Game Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+I've made the typical hangman game in Java, where someone needs to put letter by letter in the console and has certain amount of chances. If you achieve to complete all the whole word you will win. Otherwise, you will loose after your chances are left.
 
-## Folder Structure
+##  What tools I've used?
+1. Scanner class
+2. Declarations and asigments
+3. Arrays
+4. Loops
+5. String class 
+6. The methods: valueOf, charAt & length() 
+7. Character class and its methos of toLowerCase
+8. The typical If/Else structure.
 
-The workspace contains two folders by default, where:
+[My YT channel of technology and hardware](https://www.youtube.com/@tioalex-px)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+[My GitHub](https://github.com/MemoSainz)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[My portfolio in GitHub](https://github.com/MemoSainz)
