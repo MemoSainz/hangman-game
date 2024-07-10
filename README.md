@@ -2,7 +2,7 @@
 
 I've made the typical hangman game in Java, where someone needs to put letter by letter in the console and has certain amount of chances. If you achieve to complete all the whole word you will win. Otherwise, you will loose after your chances are left.
 
-<div align="center">
+
   
 ##  What tools I've used?
 1. Scanner class
@@ -13,6 +13,8 @@ I've made the typical hangman game in Java, where someone needs to put letter by
 6. The methods: valueOf, charAt & length() 
 7. Character class and its methos of toLowerCase
 8. The typical If/Else structure.
+
+<div align="center">
 
 [My YT channel of technology and hardware](https://www.youtube.com/@tioalex-px)
 
