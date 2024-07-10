@@ -20,4 +20,4 @@ I've made the typical hangman game in Java, where someone needs to put letter by
 
 [My GitHub](https://github.com/MemoSainz)
 
-[My portfolio in GitHub](https://github.com/MemoSainz)
+[My portfolio in GitHub](https://github.com/MemoSainz/Portfolio)
